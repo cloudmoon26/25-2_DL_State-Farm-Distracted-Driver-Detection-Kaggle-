@@ -5,7 +5,8 @@ Using four CNN architectures (AlexNet, VGGNet, ResNet, and GoogLeNet), our team 
 
 free topic: Building a Web Browser That Predicts Insurance Premiums (Based on ROI Learned by the Team)
 
-- Private score
+- Private Score
+
 AlexNet: 0.37222
 GoogleLeNet: 0.255506
 VGGNet: 0.18868
