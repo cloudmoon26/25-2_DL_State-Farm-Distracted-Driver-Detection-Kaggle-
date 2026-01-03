@@ -1,7 +1,7 @@
 # 25-2_DL_State-Farm-Distracted-Driver-Detection-Kaggle-
 Team Project
 
-Using the four CNNs (AlexNet, VGGNet, ResNet, GoogLeNet), create four models 
-to classify driver states based on driver image data, and compare the performance of each model
+Using four CNN architectures (AlexNet, VGGNet, ResNet, and GoogLeNet), our team built and evaluated models for classifying driver states from in-cabin images, along with extended free-topic explorations related to distracted driver detection.
 
-+ Extended free topics related to Distracted Driver Detection
+My contributions: Implemented AlexNet and VGGNet, experimented with ResNet, and participated in design discussions and technical decision-making for extended free-topic projects.
+
